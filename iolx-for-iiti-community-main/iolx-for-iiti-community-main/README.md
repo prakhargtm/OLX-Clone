@@ -70,11 +70,5 @@ Contact us
 ![Screenshot (15)](https://user-images.githubusercontent.com/85924566/142666568-20220a04-f117-4c12-a135-c79e2f6c7a1c.png)
 
 
-## Contributors
-
-- [Subha Gopal](https://github.com/svg2312)
-- [Sakshi Mahajan](https://github.com/sak1741)
-- [Omkar Shirgaonkar](https://github.com/BulzEye)
-- [Saral Shikar](https://github.com/saral11)
 
 
